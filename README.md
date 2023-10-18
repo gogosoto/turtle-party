@@ -1,2 +1,2 @@
-# turtle-party
-My python turlte project
+# Python turtle party
+Drawing Stop signs
